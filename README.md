@@ -77,7 +77,7 @@ Then open `oci_compartments_hierarchy.csv` with Excel or any spreadsheet tool.
 
 ## License
 
-MIT License — see Upadhyay-Chaitanya/License for details.
+MIT License — see [LICENSE](https://github.com/Upadhyay-Chaitanya/License/blob/main/MIT) for details.
 
 ---
 
